@@ -1,0 +1,5 @@
+{
+  "name": "Photosynthesis Interactive Simulator",
+  "description": "An interactive web application for students to learn about photosynthesis by dragging and dropping reactants like Carbon Dioxide, Water, and Sunlight to create products like Glucose and Oxygen, while learning to balance the chemical equation.",
+  "requestFramePermissions": []
+}
